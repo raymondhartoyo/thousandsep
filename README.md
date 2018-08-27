@@ -2,7 +2,7 @@
 
 ## Thousandsep
 
-`Thousandsep` is a simple Go package to simple package to format float64 and int64 number into strings with thoudsand separated (currency) format.
+`Thousandsep` is a simple Go package to format float64 and int64 number into strings with thoudsand separated (currency) format.
 
 For guides and reference materials about `Thousandsep`, see [the documentation](https://godoc.org/github.com/raymondhartoyo/thousandsep).
 
